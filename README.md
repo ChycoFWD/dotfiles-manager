@@ -1,7 +1,3 @@
-Aqui está a documentação reescrita para o script:
-
----
-
 ## **Dotfiles Manager - Gerenciador de Dotfiles com Backup e Sincronização**
 
 Este script é uma ferramenta prática para gerenciar seus arquivos de configuração (dotfiles), realizar backups e sincronizar entre diferentes sistemas. Ele oferece uma interface interativa e também permite a execução de ações específicas via parâmetros de linha de comando. O script é compatível com sistemas **Linux** e **macOS** e inclui funcionalidades para instalar o `rsync`, fazer backup seguro e sincronizar arquivos.
