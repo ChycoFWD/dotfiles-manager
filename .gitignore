@@ -1,0 +1,7 @@
+.env
+.ssh/*
+.gitconfig
+.npmrc
+.bash_history
+.viminfo
+.lesshst
